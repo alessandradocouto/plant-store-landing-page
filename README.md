@@ -1,8 +1,10 @@
 #  Shopping Cart in React.js and Typescript
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-
 Website de e-commerce de uma loja de plantas com detalhes da compra.
+
+
+Site: https://plantsair.vercel.app/
 
 
 ![página inicial do site de plantas](https://raw.githubusercontent.com/alessandradocouto/plant-store-landing-page/master/src/assets/Plant-Store.png)
