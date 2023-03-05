@@ -1,6 +1,12 @@
 #  Shopping Cart in React.js and Typescript
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 Website de e-commerce de uma loja de plantas com detalhes da compra.
+
+
+![página inicial do site de plantas](https://raw.githubusercontent.com/alessandradocouto/plant-store-landing-page/master/src/assets/Plant-Store.png)
+
 
 
 ## Aprendizados ao construir o projeto
@@ -11,14 +17,17 @@ Website de e-commerce de uma loja de plantas com detalhes da compra.
 fonte: https://kevinyckim33.medium.com/jsx-spread-operator-component-props-meaning-3c9bcadd2493
 
 
+
 - feature intressante optional chaining ES2020
 
 fonte: https://pt.stackoverflow.com/questions/486355/o-que-significa-uma-interroga%C3%A7%C3%A3o-no-acesso-%C3%A0s-propriedades-de-um-objeto
 
 
+
 - somar array de objeto com Reduce
 
 fonte: https://medium.com/@luizalbertobm/somar-valores-em-uma-lista-de-objetos-javascript-usando-reduce-faf39aa2618e
+
 
 
 ### O que foi utilizado
@@ -45,11 +54,13 @@ fonte: https://medium.com/@luizalbertobm/somar-valores-em-uma-lista-de-objetos-j
 `git clone https://github.com/alessandradocouto/plant-store-landing-page.git`
 
 
+
 #### Entar na pasta do projeto e instalar pacotes
 
 `cd plant-store-landing-page`
 
 `npm install`
+
 
 
 #### Start the app
