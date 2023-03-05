@@ -27,8 +27,6 @@ function Header () {
                 width: '100%',
                 height: 'auto',
                 minHeight: '100vh',
-                px: 6,
-                py: 4,
             }}
         >
             <Toolbar/>
@@ -66,9 +64,10 @@ function Header () {
                         marginBottom: { xs: 4 },
                         fontWeight: 400,
                         color: '#fff',
+                        border: 0,
                         backgroundColor: '#27a556',
                         '&:hover':{
-                            backgroundColor: '#27a556',
+                            backgroundColor: '#16c556',
                         }
                     }}
                 >
