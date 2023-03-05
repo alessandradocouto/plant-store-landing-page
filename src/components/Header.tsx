@@ -36,7 +36,8 @@ function Header () {
                     color: '#fff',
                     wordWrap: "break-word",
                 }}>
-                    Discover the plant ideal to your lifestyle
+                    Discover the plant ideal<br/>
+                    to your lifestyle
                 </Typography>
 
                 <Typography 
