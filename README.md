@@ -7,6 +7,8 @@ Website de e-commerce de uma loja de plantas com detalhes da compra.
 
 ![página inicial do site de plantas](https://raw.githubusercontent.com/alessandradocouto/plant-store-landing-page/master/src/assets/Plant-Store.png)
 
+<img src="https://raw.githubusercontent.com/alessandradocouto/plant-store-landing-page/master/src/assets/olants-air-responsive-.png" alt="pagina em diversos dispositivos">
+
 
 
 ## Aprendizados ao construir o projeto
