@@ -16,7 +16,9 @@ function Header () {
             direction="column" 
             spacing={3}
             sx={{
-                alignItems: { sm: 'flex-start' },
+                
+                alignItems: { xs: 'flex-start' },
+                justifyContent: "center",
                 backgroundImage: `url(${headerImg})`,
                 backgroundSize: "cover",
                 backgroundPosition: "25% 40%",
