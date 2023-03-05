@@ -17,7 +17,7 @@ function Header () {
             spacing={3}
             sx={{
                 
-                alignItems: { xs: 'flex-start' },
+                alignItems: { xs: 'flex-start', sm: 'center' },
                 justifyContent: "center",
                 backgroundImage: `url(${headerImg})`,
                 backgroundSize: "cover",
@@ -39,7 +39,7 @@ function Header () {
                     wordWrap: "break-word",
                 }}>
                     Discover the plant ideal<br/>
-                    to your lifestyle
+                    to your home or lifestyle
                 </Typography>
 
                 <Typography 
